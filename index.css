@@ -1,0 +1,54 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.div-s{
+    
+}
+
+.navbar-container {
+    background-color: rgb(233, 206, 173);
+    width: 100%;
+    height: 70px;
+}
+
+.navbar-ul {
+    display: flex;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-li {
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    font-size: 25px;
+}
+
+.container-diri {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.diri-img {
+    width: 600px;
+    height: 450px;
+}
+
+.footer {
+    height: 300px;
+    background-color: rgb(229, 219, 203);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1 {
+    font-size: 50px;
+}
